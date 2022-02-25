@@ -13,8 +13,8 @@ Note: The above "or" is for the user/customer, not the developer (i.e. YOU!). Fo
 
 ## Built with
 - API: [RoR](https://rubyonrails.org/)
-- Microcontroller: [ESP8266 chip]()
-- Frontend Framework: [Reactjs](https://github.com/varvet/pundit)
-- Mobile App: [React Native]()
+- Microcontroller: [ESP8266 chip](https://www.adafruit.com/product/2821)
+- Frontend Framework: [Reactjs](https://reactjs.org/)
+- Mobile App: [React Native](https://reactnative.dev/)
 
 
